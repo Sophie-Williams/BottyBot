@@ -1,0 +1,26 @@
+{
+  "name": "botty-bot",
+  "version": "1.0.0",
+  "description": "bot for a game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"LOL!\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jgimbel/bottyBot.git"
+  },
+  "keywords": [
+    "bot"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jgimbel/bottyBot/issues"
+  },
+  "homepage": "https://github.com/jgimbel/bottyBot#readme",
+  "dependencies": {
+    "jimp": "^0.2.28",
+    "node-fetch": "^1.7.2"
+  }
+}
